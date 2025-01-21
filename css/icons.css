@@ -1,0 +1,15 @@
+@font-face {
+    font-family:'ionicons';
+    src: local('☺'), url('../fonts/ionicons.woff') format('woff'), url('../fonts/ionicons.ttf') format('truetype'), url('../fonts/ionicons.eot'), url('../fonts/ionicons.svg') format('svg');
+    font-weight: normal;
+    font-style: normal; 
+}
+.icon {
+    font-weight: normal !important;
+    font-style: normal !important;
+    line-height: normal !important;
+    font-family: 'ionicons' !important;
+    font-size: 1.1em;
+    position: relative !important;
+    top: 0.1em;
+}
